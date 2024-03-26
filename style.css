@@ -314,6 +314,7 @@ ul{
 .footer-container{
     align-items: flex-start;
     justify-content: space-between;
+    margin-top: 60px;
 }
 
 /*sub footer*/
@@ -321,6 +322,7 @@ ul{
 .subfooter{
     background-color: #b9cde4;
     padding: var(--padding-inline-section);
+    margin-top: 60px;
 }
 
 .subfooter-container{
