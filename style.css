@@ -273,8 +273,9 @@ header{
 }
 
 .example-card:hover{
-    box-shadow: 0 0 10px #888;
+    box-shadow: 0 0 30px #ed6d6d;
     transition: 0.2s ease-out;
+    color:  rgb(234, 60, 60);
 }
 
 .example-card:nth-child(1){
